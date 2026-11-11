@@ -2,8 +2,9 @@
   <img src="assets/banner.png" alt="Nawaf Ahmed: developer, product designer and photographer. Sudanese, based in Kigali." width="100%">
 </p>
 
-<p align="center">
-  <strong>أهلاً، أنا نوّاف</strong><br>
+<h3 align="center" dir="rtl">أهلاً، أنا نوّاف</h3>
+
+<p align="center" dir="ltr">
   I'm a Sudanese software engineering student at <a href="https://www.alueducation.com/">African Leadership University</a> in Kigali.<br>
   I build products people can use when the internet doesn't cooperate, and I care how they look and feel.
 </p>
@@ -48,5 +49,5 @@
 ---
 
 <p align="center">
-  <sub>صُنع بحُب من السودان · Made with love from Sudan</sub>
+  <sub dir="ltr">Made with love from Sudan · صُنع بحُب من السودان</sub>
 </p>
